@@ -1,2 +1,2 @@
 delete from UsrRealtyTypeClassic
-  where Id = '42fc7f6d-2e35-4069-984c-e9411d3b839c'
+  where Id = '41b0ed5f-dbbc-4e70-8da3-4625a834d9a4'
