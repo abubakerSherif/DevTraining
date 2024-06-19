@@ -3,6 +3,11 @@
 	<Group Type="String">
 		<Items>
 			<Item Name="Caption" Value="Realty form page" />
+			<Item Name="LocalizableStrings.addRecord_697gljh_caption.Value" Value="Add new" />
+			<Item Name="LocalizableStrings.addRecord_hdmyd9l_caption.Value" Value="Add new" />
+			<Item Name="LocalizableStrings.addRecord_p2h8rkh_caption.Value" Value="Add new" />
+			<Item Name="LocalizableStrings.NumberInput_euqk8sz_label.Value" Value="Price" />
+			<Item Name="LocalizableStrings.NumberInput_euqk8sz_tooltip.Value" Value="Price in USD" />
 		</Items>
 	</Group>
 </Resources>
