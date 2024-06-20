@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "865d9472-a904-41b1-8839-d8994c648c48",
+    "Name": "UsrRealtyBusinessRule",
+    "ModifiedOnUtc": "\/Date(1718878442000)\/",
+    "ManagerName": "AddonSchemaManager",
+    "Caption": "Realty (Business rules)",
+    "DependsOn": []
+  }
+}

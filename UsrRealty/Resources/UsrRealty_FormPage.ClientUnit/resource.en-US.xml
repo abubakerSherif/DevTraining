@@ -6,6 +6,7 @@
 			<Item Name="LocalizableStrings.addRecord_697gljh_caption.Value" Value="Add new" />
 			<Item Name="LocalizableStrings.addRecord_hdmyd9l_caption.Value" Value="Add new" />
 			<Item Name="LocalizableStrings.addRecord_p2h8rkh_caption.Value" Value="Add new" />
+			<Item Name="LocalizableStrings.Button_p1ag9yh_caption.Value" Value="Push" />
 			<Item Name="LocalizableStrings.NumberInput_euqk8sz_label.Value" Value="Price" />
 			<Item Name="LocalizableStrings.NumberInput_euqk8sz_tooltip.Value" Value="Price in USD" />
 		</Items>
