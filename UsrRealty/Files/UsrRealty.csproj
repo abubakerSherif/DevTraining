@@ -316,6 +316,11 @@
 			<SpecificVersion>False</SpecificVersion>
 			<Private>False</Private>
 		</Reference>
+		<Reference Include="CrtCustomer360App">
+			<HintPath>$(RelativePkgFolderPath)/CrtCustomer360App/$(StandalonePackageAssemblyPath)/CrtCustomer360App.dll</HintPath>
+			<SpecificVersion>False</SpecificVersion>
+			<Private>False</Private>
+		</Reference>
 		<Reference Include="CrtBaseConsts">
 			<HintPath>$(RelativePkgFolderPath)/CrtBaseConsts/$(StandalonePackageAssemblyPath)/CrtBaseConsts.dll</HintPath>
 			<SpecificVersion>False</SpecificVersion>
@@ -431,13 +436,13 @@
 			<SpecificVersion>False</SpecificVersion>
 			<Private>False</Private>
 		</Reference>
-		<Reference Include="CSP">
-			<HintPath>$(RelativePkgFolderPath)/CSP/$(StandalonePackageAssemblyPath)/CSP.dll</HintPath>
+		<Reference Include="XSSProtection">
+			<HintPath>$(RelativePkgFolderPath)/XSSProtection/$(StandalonePackageAssemblyPath)/XSSProtection.dll</HintPath>
 			<SpecificVersion>False</SpecificVersion>
 			<Private>False</Private>
 		</Reference>
-		<Reference Include="XSSProtection">
-			<HintPath>$(RelativePkgFolderPath)/XSSProtection/$(StandalonePackageAssemblyPath)/XSSProtection.dll</HintPath>
+		<Reference Include="CSP">
+			<HintPath>$(RelativePkgFolderPath)/CSP/$(StandalonePackageAssemblyPath)/CSP.dll</HintPath>
 			<SpecificVersion>False</SpecificVersion>
 			<Private>False</Private>
 		</Reference>
@@ -506,13 +511,13 @@
 			<SpecificVersion>False</SpecificVersion>
 			<Private>False</Private>
 		</Reference>
-		<Reference Include="CrtSLM">
-			<HintPath>$(RelativePkgFolderPath)/CrtSLM/$(StandalonePackageAssemblyPath)/CrtSLM.dll</HintPath>
+		<Reference Include="CrtDocument">
+			<HintPath>$(RelativePkgFolderPath)/CrtDocument/$(StandalonePackageAssemblyPath)/CrtDocument.dll</HintPath>
 			<SpecificVersion>False</SpecificVersion>
 			<Private>False</Private>
 		</Reference>
-		<Reference Include="CrtDocument">
-			<HintPath>$(RelativePkgFolderPath)/CrtDocument/$(StandalonePackageAssemblyPath)/CrtDocument.dll</HintPath>
+		<Reference Include="CrtSLM">
+			<HintPath>$(RelativePkgFolderPath)/CrtSLM/$(StandalonePackageAssemblyPath)/CrtSLM.dll</HintPath>
 			<SpecificVersion>False</SpecificVersion>
 			<Private>False</Private>
 		</Reference>
@@ -573,11 +578,6 @@
 		</Reference>
 		<Reference Include="CrtSLMITILService7x">
 			<HintPath>$(RelativePkgFolderPath)/CrtSLMITILService7x/$(StandalonePackageAssemblyPath)/CrtSLMITILService7x.dll</HintPath>
-			<SpecificVersion>False</SpecificVersion>
-			<Private>False</Private>
-		</Reference>
-		<Reference Include="CrtCustomer360App">
-			<HintPath>$(RelativePkgFolderPath)/CrtCustomer360App/$(StandalonePackageAssemblyPath)/CrtCustomer360App.dll</HintPath>
 			<SpecificVersion>False</SpecificVersion>
 			<Private>False</Private>
 		</Reference>
@@ -666,13 +666,13 @@
 			<SpecificVersion>False</SpecificVersion>
 			<Private>False</Private>
 		</Reference>
-		<Reference Include="CrtOrderDocument">
-			<HintPath>$(RelativePkgFolderPath)/CrtOrderDocument/$(StandalonePackageAssemblyPath)/CrtOrderDocument.dll</HintPath>
+		<Reference Include="CrtProductCatalogueInOrder">
+			<HintPath>$(RelativePkgFolderPath)/CrtProductCatalogueInOrder/$(StandalonePackageAssemblyPath)/CrtProductCatalogueInOrder.dll</HintPath>
 			<SpecificVersion>False</SpecificVersion>
 			<Private>False</Private>
 		</Reference>
-		<Reference Include="CrtProductCatalogueInOrder">
-			<HintPath>$(RelativePkgFolderPath)/CrtProductCatalogueInOrder/$(StandalonePackageAssemblyPath)/CrtProductCatalogueInOrder.dll</HintPath>
+		<Reference Include="CrtOrderDocument">
+			<HintPath>$(RelativePkgFolderPath)/CrtOrderDocument/$(StandalonePackageAssemblyPath)/CrtOrderDocument.dll</HintPath>
 			<SpecificVersion>False</SpecificVersion>
 			<Private>False</Private>
 		</Reference>
@@ -701,13 +701,13 @@
 			<SpecificVersion>False</SpecificVersion>
 			<Private>False</Private>
 		</Reference>
-		<Reference Include="CrtCaseManagement">
-			<HintPath>$(RelativePkgFolderPath)/CrtCaseManagement/$(StandalonePackageAssemblyPath)/CrtCaseManagement.dll</HintPath>
+		<Reference Include="CrtSalesInC360">
+			<HintPath>$(RelativePkgFolderPath)/CrtSalesInC360/$(StandalonePackageAssemblyPath)/CrtSalesInC360.dll</HintPath>
 			<SpecificVersion>False</SpecificVersion>
 			<Private>False</Private>
 		</Reference>
-		<Reference Include="CrtSalesInC360">
-			<HintPath>$(RelativePkgFolderPath)/CrtSalesInC360/$(StandalonePackageAssemblyPath)/CrtSalesInC360.dll</HintPath>
+		<Reference Include="CrtCaseManagement">
+			<HintPath>$(RelativePkgFolderPath)/CrtCaseManagement/$(StandalonePackageAssemblyPath)/CrtCaseManagement.dll</HintPath>
 			<SpecificVersion>False</SpecificVersion>
 			<Private>False</Private>
 		</Reference>
@@ -721,13 +721,13 @@
 			<SpecificVersion>False</SpecificVersion>
 			<Private>False</Private>
 		</Reference>
-		<Reference Include="CrtOpportunityInvoice">
-			<HintPath>$(RelativePkgFolderPath)/CrtOpportunityInvoice/$(StandalonePackageAssemblyPath)/CrtOpportunityInvoice.dll</HintPath>
+		<Reference Include="CrtMatomoConnector">
+			<HintPath>$(RelativePkgFolderPath)/CrtMatomoConnector/$(StandalonePackageAssemblyPath)/CrtMatomoConnector.dll</HintPath>
 			<SpecificVersion>False</SpecificVersion>
 			<Private>False</Private>
 		</Reference>
-		<Reference Include="CrtMatomoConnector">
-			<HintPath>$(RelativePkgFolderPath)/CrtMatomoConnector/$(StandalonePackageAssemblyPath)/CrtMatomoConnector.dll</HintPath>
+		<Reference Include="CrtOpportunityInvoice">
+			<HintPath>$(RelativePkgFolderPath)/CrtOpportunityInvoice/$(StandalonePackageAssemblyPath)/CrtOpportunityInvoice.dll</HintPath>
 			<SpecificVersion>False</SpecificVersion>
 			<Private>False</Private>
 		</Reference>
@@ -781,6 +781,11 @@
 			<SpecificVersion>False</SpecificVersion>
 			<Private>False</Private>
 		</Reference>
+		<Reference Include="CrtBulkEmailInC360">
+			<HintPath>$(RelativePkgFolderPath)/CrtBulkEmailInC360/$(StandalonePackageAssemblyPath)/CrtBulkEmailInC360.dll</HintPath>
+			<SpecificVersion>False</SpecificVersion>
+			<Private>False</Private>
+		</Reference>
 		<Reference Include="CrtEngagementToolsApp">
 			<HintPath>$(RelativePkgFolderPath)/CrtEngagementToolsApp/$(StandalonePackageAssemblyPath)/CrtEngagementToolsApp.dll</HintPath>
 			<SpecificVersion>False</SpecificVersion>
@@ -788,11 +793,6 @@
 		</Reference>
 		<Reference Include="CrtOpportunityInC360">
 			<HintPath>$(RelativePkgFolderPath)/CrtOpportunityInC360/$(StandalonePackageAssemblyPath)/CrtOpportunityInC360.dll</HintPath>
-			<SpecificVersion>False</SpecificVersion>
-			<Private>False</Private>
-		</Reference>
-		<Reference Include="CrtBulkEmailInC360">
-			<HintPath>$(RelativePkgFolderPath)/CrtBulkEmailInC360/$(StandalonePackageAssemblyPath)/CrtBulkEmailInC360.dll</HintPath>
 			<SpecificVersion>False</SpecificVersion>
 			<Private>False</Private>
 		</Reference>
@@ -864,9 +864,11 @@
 	</ItemGroup>
 	<ItemGroup Label="Standalone package external assembly references" />
 	<ItemGroup Label="Entity Files">
+		<Compile Remove="$(RelativePkgFolderPath)/UsrRealty/Schemas/Account/Account.cs" Condition="Exists('$(RelativePkgFolderPath)/UsrRealty/Schemas/Account/Account.cs')" />
 		<Compile Remove="$(RelativePkgFolderPath)/UsrRealty/Schemas/UsrRealty/UsrRealty.cs" Condition="Exists('$(RelativePkgFolderPath)/UsrRealty/Schemas/UsrRealty/UsrRealty.cs')" />
 		<Compile Remove="$(RelativePkgFolderPath)/UsrRealty/Schemas/UsrRealtyOfferType/UsrRealtyOfferType.cs" Condition="Exists('$(RelativePkgFolderPath)/UsrRealty/Schemas/UsrRealtyOfferType/UsrRealtyOfferType.cs')" />
 		<Compile Remove="$(RelativePkgFolderPath)/UsrRealty/Schemas/UsrRealtyType/UsrRealtyType.cs" Condition="Exists('$(RelativePkgFolderPath)/UsrRealty/Schemas/UsrRealtyType/UsrRealtyType.cs')" />
+		<Compile Remove="$(RelativePkgFolderPath)/UsrRealty/Schemas/UsrRealtyVisit/UsrRealtyVisit.cs" Condition="Exists('$(RelativePkgFolderPath)/UsrRealty/Schemas/UsrRealtyVisit/UsrRealtyVisit.cs')" />
 	</ItemGroup>
 	<ItemGroup Label="3rd Party References"></ItemGroup>
 	<Target Name="Paths" BeforeTargets="BeforeCompile">

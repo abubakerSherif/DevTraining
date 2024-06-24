@@ -4,6 +4,7 @@
 		<Items>
 			<Item Name="Caption" Value="Realty form page" />
 			<Item Name="LocalizableStrings.Button_p1ag9yh_caption.Value" Value="إضغط" />
+			<Item Name="LocalizableStrings.Button_push_caption.Value" Value="إضغط" />
 		</Items>
 	</Group>
 </Resources>

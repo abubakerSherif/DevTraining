@@ -6,9 +6,20 @@
 			<Item Name="LocalizableStrings.addRecord_697gljh_caption.Value" Value="Add new" />
 			<Item Name="LocalizableStrings.addRecord_hdmyd9l_caption.Value" Value="Add new" />
 			<Item Name="LocalizableStrings.addRecord_p2h8rkh_caption.Value" Value="Add new" />
+			<Item Name="LocalizableStrings.AreaCannotBeLess.Value" Value="Area Can not Be Less that 100" />
 			<Item Name="LocalizableStrings.Button_p1ag9yh_caption.Value" Value="Push" />
+			<Item Name="LocalizableStrings.Button_push_caption.Value" Value="Push" />
+			<Item Name="LocalizableStrings.ExpansionPanel_v04jj1p_title.Value" Value="Realty Visit" />
+			<Item Name="LocalizableStrings.GridDetailAddBtn_4tqeof6_caption.Value" Value="New" />
+			<Item Name="LocalizableStrings.GridDetailExportDataBtn_4h99j8d_caption.Value" Value="Export to Excel" />
+			<Item Name="LocalizableStrings.GridDetailImportDataBtn_5d15gmk_caption.Value" Value="Data import" />
+			<Item Name="LocalizableStrings.GridDetailRefreshBtn_ji2cznu_caption.Value" Value="Refresh" />
+			<Item Name="LocalizableStrings.GridDetailSearchFilter_oir8leq_placeholder.Value" Value="Search" />
+			<Item Name="LocalizableStrings.GridDetailSettingsBtn_be27fb7_caption.Value" Value="Actions" />
 			<Item Name="LocalizableStrings.NumberInput_euqk8sz_label.Value" Value="Price" />
 			<Item Name="LocalizableStrings.NumberInput_euqk8sz_tooltip.Value" Value="Price in USD" />
+			<Item Name="LocalizableStrings.NumberInput_x5m1wc4_label.Value" Value="Commission %" />
+			<Item Name="LocalizableStrings.PriceCannotBeLess.Value" Value="Price Can not Be Less than 50" />
 		</Items>
 	</Group>
 </Resources>
