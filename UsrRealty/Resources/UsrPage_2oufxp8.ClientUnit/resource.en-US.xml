@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="New edit page" />
+			<Item Name="LocalizableStrings.SaveButton_caption.Value" Value="Save" />
+			<Item Name="Parameters.ce808c9b-2839-a51d-8d30-830e509a7e46.Caption" Value="Avg Price, USD" />
+			<Item Name="Parameters.f56702c2-848b-82d4-6123-303cb6f80150.Caption" Value="SQL Text" />
+		</Items>
+	</Group>
+</Resources>

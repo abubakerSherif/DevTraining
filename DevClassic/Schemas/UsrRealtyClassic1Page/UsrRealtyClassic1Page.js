@@ -71,6 +71,17 @@ define("UsrRealtyClassic1Page", [], function() {
 				"propertyName": "items",
 				"index": 2
 			},
+          {                "operation": "insert",
+           "parentName": "ProfileContainer",
+           "propertyName": "items",
+           "name": "RunWebServiceButton",
+           "values": {
+             "itemType": Terrasoft.ViewItemType.BUTTON,
+             "caption": {bindTo: "Resources.Strings.RunWebServiceCaption"},
+             "click": {bindTo: "onRunWebServiceButtonClick"},                    
+             "style": Terrasoft.controls.ButtonEnums.style.BLUE
+           }
+          },
 			{
 				"operation": "insert",
 				"name": "LOOKUP8b60e656-a822-43f1-bd59-a0250015dc4f",

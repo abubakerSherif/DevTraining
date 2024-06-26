@@ -7,6 +7,7 @@
 			<Item Name="LocalizableStrings.addRecord_hdmyd9l_caption.Value" Value="Add new" />
 			<Item Name="LocalizableStrings.addRecord_p2h8rkh_caption.Value" Value="Add new" />
 			<Item Name="LocalizableStrings.AreaCannotBeLess.Value" Value="Area Can not Be Less that 100" />
+			<Item Name="LocalizableStrings.Button_gi61uea_caption.Value" Value="Calculate" />
 			<Item Name="LocalizableStrings.Button_p1ag9yh_caption.Value" Value="Push" />
 			<Item Name="LocalizableStrings.Button_push_caption.Value" Value="Push" />
 			<Item Name="LocalizableStrings.ExpansionPanel_v04jj1p_title.Value" Value="Realty Visit" />

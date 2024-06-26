@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "23315928-4cba-4f7f-8e52-06f9b19592b9",
+    "Name": "UsrProcess_453f9e3",
+    "ModifiedOnUtc": "\/Date(1719311111000)\/",
+    "ManagerName": "ProcessSchemaManager",
+    "Caption": "Avg Price USD Calculation",
+    "DependsOn": []
+  }
+}

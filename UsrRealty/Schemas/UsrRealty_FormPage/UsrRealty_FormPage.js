@@ -72,6 +72,32 @@ define("UsrRealty_FormPage", /**SCHEMA_DEPS*/[]/**SCHEMA_DEPS*/, function/**SCHE
 			},
 			{
 				"operation": "insert",
+				"name": "Button_gi61uea",
+				"values": {
+					"type": "crt.Button",
+					"caption": "#ResourceString(Button_gi61uea_caption)#",
+					"color": "primary",
+					"disabled": false,
+					"size": "medium",
+					"iconPosition": "only-text",
+					"visible": true,
+					"clicked": {
+						"request": "crt.RunBusinessProcessRequest",
+						"params": {
+							"processName": "UsrProcess_453f9e3",
+							"processRunType": "ForTheSelectedPage",
+							"showNotification": true,
+							"recordIdProcessParameterName": "RealtyId"
+						}
+					},
+					"clickMode": "default"
+				},
+				"parentName": "CardToggleContainer",
+				"propertyName": "items",
+				"index": 1
+			},
+			{
+				"operation": "insert",
 				"name": "UsrName",
 				"values": {
 					"layoutConfig": {
@@ -325,7 +351,7 @@ define("UsrRealty_FormPage", /**SCHEMA_DEPS*/[]/**SCHEMA_DEPS*/, function/**SCHE
 					"readonly": false,
 					"placeholder": "",
 					"tooltip": "",
-					"valueDetails": null
+					"valueDetails": "$UsrManager_ValueDetails"
 				},
 				"parentName": "GeneralInfoTab",
 				"propertyName": "items",
@@ -846,6 +872,11 @@ define("UsrRealty_FormPage", /**SCHEMA_DEPS*/[]/**SCHEMA_DEPS*/, function/**SCHE
 						"modelConfig": {
 							"path": "PDS.Id"
 						}
+					},
+					"UsrManager_ValueDetails": {
+						"modelConfig": {
+							"path": "PDS.UsrManagerEmail"
+						}
 					}
 				}
 			},
@@ -890,6 +921,10 @@ define("UsrRealty_FormPage", /**SCHEMA_DEPS*/[]/**SCHEMA_DEPS*/, function/**SCHE
 							"attributes": {
 								"UsrOfferTypeUsrCommissionPercent": {
 									"path": "UsrOfferType.UsrCommissionPercent",
+									"type": "ForwardReference"
+								},
+								"UsrManagerEmail": {
+									"path": "UsrManager.Email",
 									"type": "ForwardReference"
 								}
 							}

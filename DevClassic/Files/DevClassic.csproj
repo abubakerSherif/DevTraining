@@ -476,13 +476,13 @@
 			<SpecificVersion>False</SpecificVersion>
 			<Private>False</Private>
 		</Reference>
-		<Reference Include="CrtSpecification">
-			<HintPath>$(RelativePkgFolderPath)/CrtSpecification/$(StandalonePackageAssemblyPath)/CrtSpecification.dll</HintPath>
+		<Reference Include="CrtEmailMessage">
+			<HintPath>$(RelativePkgFolderPath)/CrtEmailMessage/$(StandalonePackageAssemblyPath)/CrtEmailMessage.dll</HintPath>
 			<SpecificVersion>False</SpecificVersion>
 			<Private>False</Private>
 		</Reference>
-		<Reference Include="CrtEmailMessage">
-			<HintPath>$(RelativePkgFolderPath)/CrtEmailMessage/$(StandalonePackageAssemblyPath)/CrtEmailMessage.dll</HintPath>
+		<Reference Include="CrtSpecification">
+			<HintPath>$(RelativePkgFolderPath)/CrtSpecification/$(StandalonePackageAssemblyPath)/CrtSpecification.dll</HintPath>
 			<SpecificVersion>False</SpecificVersion>
 			<Private>False</Private>
 		</Reference>

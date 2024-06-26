@@ -1,0 +1,13 @@
+﻿{
+  "Descriptor": {
+    "UId": "47b658f7-5c36-4ca6-b204-0789d92d7f34",
+    "Name": "UsrPage_2oufxp8",
+    "ModifiedOnUtc": "\/Date(1719311202000)\/",
+    "Parent": {
+      "UId": "27e1b215-163a-4b82-b0a6-9872a8dde6e4",
+      "Name": "PageWithTopAreaAndTabsFreedomTemplate"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "New edit page"
+  }
+}
